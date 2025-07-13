@@ -1,0 +1,14 @@
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\bin\Debug\net9.0\DODGER.exe
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\bin\Debug\net9.0\DODGER.deps.json
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\bin\Debug\net9.0\DODGER.runtimeconfig.json
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\bin\Debug\net9.0\DODGER.dll
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\bin\Debug\net9.0\DODGER.pdb
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.AssemblyInfoInputs.cache
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.AssemblyInfo.cs
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.csproj.CoreCompileInputs.cache
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.dll
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\refint\DODGER.dll
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.pdb
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\DODGER.genruntimeconfig.cache
+C:\Users\Suryaveer\Desktop\C# CONSOLE APP\DODGER\obj\Debug\net9.0\ref\DODGER.dll
